@@ -7,7 +7,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.materano.notificaciones.databinding.ActivityMainBinding
 import java.util.*
-
+// el tutorial de como hacerlo lo consegui en este canal de youtube https://www.youtube.com/watch?v=k1HQ9e8646A
 class MainActivity : AppCompatActivity() {
     private val alarmID = 1
     private lateinit var binding: ActivityMainBinding
@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
             "Preferencias",
             Context.MODE_PRIVATE
         )
-        //peuebas
         var hour: String?
         var minute: String?
 
