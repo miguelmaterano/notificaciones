@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             "Preferencias",
             Context.MODE_PRIVATE
         )
+        //peuebas
         var hour: String?
         var minute: String?
 
