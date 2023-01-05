@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notificaciones</string>
+    <string name="changed_to">Notificación cambiada a las %s</string>
+    <string name="time_selected_is">La hora seleccionada es:</string>
+    <string name="change_time">Cambia la hora</string>
+    <string name="select_time">Selecciona la hora</string>
+    <string name="new_notification">Tienes cobros pendientes para hoy</string>
+</resources>
