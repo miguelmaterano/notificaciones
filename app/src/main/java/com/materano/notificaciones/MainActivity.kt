@@ -21,9 +21,6 @@ class MainActivity : AppCompatActivity() {
             "Preferencias",
             Context.MODE_PRIVATE
         )
-
-       // settings = sharedPreference(getString(R.string.app_name), MODE_PRIVATE)
-
         var hour: String?
         var minute: String?
 
