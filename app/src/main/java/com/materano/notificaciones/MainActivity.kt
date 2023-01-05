@@ -65,9 +65,6 @@ class MainActivity : AppCompatActivity() {
                         Toast.LENGTH_LONG
                     ).show()
                     Utils.setAlarm(alarmID, today.timeInMillis, this@MainActivity)
-
-                    Utils.setAlarm(2, today.timeInMillis, this@MainActivity)
-
                 }, hour, minute, true
             ) //Yes 24 hour time
 
